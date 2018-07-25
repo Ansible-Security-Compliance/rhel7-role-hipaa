@@ -1,6 +1,2 @@
-rsyslog_remote_loghost_address: logcollector
-var_selinux_policy_name: targeted
-var_selinux_state: enforcing
-var_selinuxuser_execheap: false
-var_selinuxuser_execmod: true
-var_selinuxuser_execstack: true
+null
+...
