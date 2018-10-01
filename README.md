@@ -15,7 +15,7 @@ This profile configures Red Hat Enterprise Linux 7 to the HIPAA Security
 Rule identified for securing of electronic protected health information.  
   
 Benchmark ID:  RHEL-7  
-Benchmark Version:  0.1.40  
+Benchmark Version:  0.1.41  
   
 XCCDF Version:  1.1  
   
